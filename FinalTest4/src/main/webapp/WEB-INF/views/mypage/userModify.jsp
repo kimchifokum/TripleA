@@ -12,7 +12,7 @@
 	%>
 	  <script type="text/javascript">
 	    alert("회원정보가 변경되었습니다.");
-	    alert("다시 로그인 해주시길 바랍니다.")
+	    alert("다시 로그인 해주시길 바랍니다.");
 	    location.href="/user/login";
 	  </script>
 	</body>
